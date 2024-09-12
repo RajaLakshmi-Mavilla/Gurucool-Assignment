@@ -9,27 +9,6 @@ Local Storage: Stores form data in local storage to persist user inputs across p
 Responsive Design: The form is styled to be responsive and user-friendly across different devices.
 Conditional Navigation: Disables the Back button on the first step and the Next button on the last step until validation is complete.
 Getting Started
-Prerequisites
-Node.js and npm installed on your machine.
-Installation
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install Dependencies
-
-bash
-Copy code
-npm install
-Start the Development Server
-
-bash
-Copy code
-npm start
-This will start the development server and open the application in your default web browser.
-
 Project Structure
 App.js: The main component that handles step navigation, validation, and form data management.
 PersonalInfo.js: A component for capturing personal information (name, email, phone).
